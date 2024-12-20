@@ -17,3 +17,5 @@ addicted ever since. This addiction lead to her untimely death at age {age}"
 
 
 print(madlib1)
+
+#This is the first scenario with no randomization added
